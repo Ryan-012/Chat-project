@@ -4,7 +4,7 @@ This project is a chat that allows me to talk in two rooms. You only see message
 
 ## 
 
-![App Screenshot](https://cdn.discordapp.com/attachments/737069685333557319/1037134223921909800/talking.png)
+![App Screenshot](https://cdn.discordapp.com/attachments/737069685333557319/1037146576050720838/talking.png)
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/737069685333557319/1037141146318684261/warning.png)
 
