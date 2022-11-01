@@ -1,6 +1,6 @@
 # Chat Project
 
-This project is a chat that allows me to talk in two rooms. You only see messages from your room, when  someone enter on your room, you're  warned.
+This project is a chat that allows me to talk in two rooms. You only see messages from your room, when someone enters your room, you're warned.
 
 ## 
 
@@ -17,7 +17,7 @@ To run server, run the following command
 ```
 
 ## Rooms
- For you to enter on the rooms, using these URLs in browser:
+For you to enter the rooms, use these URLs in the browser:
 
  - Room one - [http://localhost:3000/group1/](http://localhost:3000/group1/)
  - Room two - [http://localhost:3000/group2/](http://localhost:3000/group2/)
