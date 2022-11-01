@@ -4,8 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "install": "npm install express socket.io --save path"
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
