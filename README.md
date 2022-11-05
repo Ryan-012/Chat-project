@@ -10,9 +10,10 @@ This project is a chat that allows me to talk in two rooms. You only see message
 
 ## Run Server
 
-To run server, run the following command
+To run server, run the following commands
 
 ```bash
+  npm install
   npm start
 ```
 
